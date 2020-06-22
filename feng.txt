@@ -3,3 +3,6 @@ my name is zhangdongfeng;
 hello word!
 
 I LOVE YOU
+
+git branch dev
+git checkout dev
